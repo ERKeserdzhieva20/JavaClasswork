@@ -1,2 +1,2 @@
-# Zadachi po OOP (Java)
+# Задачи по ООП (Java)
 10.10.2023
