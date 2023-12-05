@@ -1,23 +1,30 @@
 # Java OOP Classwork
  
 A repository for all the tasks, given durning our OOP classes
- 
-<br>
-<br>
+
+ <br>
  
 ### Table of repository conntent
 
 <details>
-<summary>Date of class</summary>
+<summary>Classwork from 05.12.23</summary>
 
-some text
+Projects:
 + <details>
-    <summary>Project</summary>
+    <summary>Ferrari</summary>
 
-    some more text
+    Files:
     + <details>
-        <summary>Class</summary>
-        code
+        <summary>Class:Ferrari</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/1d5d054899e52c88e68d1206cee06657256672a2/Zadachi/classwork05122023/Ferrari/src/Ferrari.java#L1-L21
+      </details>
+    + <details>
+        <summary>Class:interface</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/1d5d054899e52c88e68d1206cee06657256672a2/Zadachi/classwork05122023/Ferrari/src/Interface.java#L1-L4
+      </details>
+    + <details>
+        <summary>Class:Main</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/1d5d054899e52c88e68d1206cee06657256672a2/Zadachi/classwork05122023/Ferrari/src/Main.java#L1-L10
       </details>
    </details>
 </details>
@@ -38,6 +45,7 @@ Install my-project with npm
 ```
  
 <br>
+
 ### Authors
  
 - [@ERKeserdzhieva20](https://github.com/ERKeserdzhieva20)
