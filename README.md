@@ -1,11 +1,10 @@
 # Java OOP Classwork
- 
+
 A repository for all the tasks, given durning our OOP classes
 
  <br>
  
-### Table of repository conntent
-
+### Quick look around:
 <details>
 <summary>Classwork from 05.12.23</summary>
 
@@ -27,17 +26,242 @@ Projects:
         https://github.com/ERKeserdzhieva20/JavaClasswork/blob/1d5d054899e52c88e68d1206cee06657256672a2/Zadachi/classwork05122023/Ferrari/src/Main.java#L1-L10
       </details>
    </details>
++ <details>
+    <summary>project</summary>
+
+    Files:
+    + <details>
+        <summary>Class:Citizen</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork05122023/project/src/Citizen.java#L1-L23
+      </details>
+    + <details>
+        <summary>Class:Idenifiable</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork05122023/project/src/Idenifiable.java#L1-L3
+      </details>
+    + <details>
+        <summary>Class:Robot</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork05122023/project/src/Robot.java#L1-L18
+      </details>
+    + <details>
+        <summary>Class:Main</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork05122023/project/src/Main.java#L1-L38
+      </details>
+   </details>
+</details>
+
+
+
+<details>
+<summary>Classwork from 28.11.23</summary>
+
+Projects:
++ <details>
+    <summary>carShop</summary>
+
+    Files:
+    + <details>
+        <summary>Class:Audi</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/carShop/carShop/src/Audi.java#L1-L2
+      </details>
+    + <details>
+        <summary>Class:Car</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/carShop/carShop/src/Car.java#L1-L2
+      </details>
+    + <details>
+        <summary>Class:Mercedes</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/carShop/carShop/src/Mercedes.java#L1-L3
+      </details>
+    + <details>
+        <summary>Class:RepairShop</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/carShop/carShop/src/RepairShop.java#L1-L6
+      </details>
+    + <details>
+        <summary>Class:Main</summary>
+            https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/carShop/carShop/src/Main.java#L1-L7
+      </details>
+
++ <details>
+    <summary>Say Hello</summary>
+
+    Files:
+    + <details>
+        <summary>Class:Bulgarian</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello/Say%20Hello/src/Bulgarian.java#L1-L18
+      </details>
+    + <details>
+        <summary>Class:Chinese</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello/Say%20Hello/src/Chinese.java#L1-L17
+      </details>
+    + <details>
+        <summary>Class:European</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello/Say%20Hello/src/European.java#L1-L17
+      </details>
+    + <details>
+        <summary>Class:Persosn</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello/Say%20Hello/src/Person.java#L1-L4
+      </details>
+    + <details>
+        <summary>Class:Main</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello/Say%20Hello/src/Main.java#L1-L19
+      </details>
+   </details>
+
+
++ <details>
+    <summary>Say Hello Extend</summary>
+
+    Files:
+    + <details>
+        <summary>Class:Bulgarian</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello%20Extend/Say%20Hello%20Extend/src/Bulgarian.java#L1-L12
+      </details>
+    + <details>
+        <summary>Class:Chinese</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello%20Extend/Say%20Hello%20Extend/src/Chinese.java#L1-L10
+      </details>
+    + <details>
+        <summary>Class:European</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello%20Extend/Say%20Hello%20Extend/src/European.java#L1-L12
+      </details>
+    + <details>
+        <summary>Class:Persosn</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello%20Extend/Say%20Hello%20Extend/src/Person.java#L1-L4
+      </details>
+    + <details>
+        <summary>Class:BasePersosn</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello%20Extend/Say%20Hello%20Extend/src/BasePerson.java#L1-L17
+      </details>
+    + <details>
+        <summary>Class:Main</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork28112023/Say%20Hello%20Extend/Say%20Hello%20Extend/src/Main.java#L1-L21
+      </details>
+   </details>
+   
 </details>
  
+<details>
+<summary>Classwork from 21.11.23</summary>
 
- 
+Projects:
++ <details>
+    <summary>Human</summary>
 
+    Files:
+    + <details>
+        <summary>Class:Creature</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork21222023/Human/src/People/Creature.java#L1-L7
+      </details>
+    + <details>
+        <summary>Class:People</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork21222023/Human/src/People/Human.java#L1-L58
+      </details>
+    + <details>
+        <summary>Class:ShoppingCart</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork21222023/Human/src/People/ShoppingCart.java#L1-L7
+      </details>
+    + <details>
+        <summary>Class:Student</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork21222023/Human/src/People/Student.java#L1-L22
+      </details>
+    + <details>
+        <summary>Class:Main</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork21222023/Human/src/Main.java#L1-L8
+      </details> 
+</details>
+
+
+
+
+<details>
+<summary>Classwork from 14.11.23</summary>
+
+Projects:
++ <details>
+    <summary>inheritance</summary>
+
+    Files:
+    + <details>
+        <summary>Class:Human</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork14112023/inheritance/src/Human.java#L1-L42
+      </details>
+    + <details>
+        <summary>Class:Student</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork14112023/inheritance/src/Student.java#L1-L11
+      </details>
+    + <details>
+        <summary>Class:Main</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork14112023/inheritance/src/Main.java#L1-L26
+      </details>
+</details>
+
+
+<details>
+<summary>Classwork from 07.11.23</summary>
+
+Projects:
++ <details>
+    <summary>Human</summary>
+
+    Files:
+    + <details>
+        <summary>Class:Car</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork07112023/src/Car.java#L1-L10
+      </details>
+    + <details>
+        <summary>Class:Child</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork07112023/src/Child.java#L1-L6
+      </details>
+    + <details>
+        <summary>Class:Person</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork07112023/src/Person.java#L1-L25
+      </details>
+    + <details>
+        <summary>Class:Vehicle</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork07112023/src/Vehicle.java#L1-L48
+      </details>
+    + <details>
+        <summary>Class:Main</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/classwork07112023/src/Main.java#L1-L24
+      </details>
+</details>
+
+
+
+<details>
+<summary>Random tasks</summary>
+
+Projects:
++ <details>
+    <summary>Tasks</summary>
+
+    Files:
+    + <details>
+        <summary>Class:HelloWorld</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/Zadachi/src/HelloWorld.java#L1-L6
+      </details>
+    + <details>
+        <summary>Class:Numbers</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/Zadachi/src/Numbers.java#L1-L10
+      </details>
+    + <details>
+        <summary>Class:oneLineNumbers</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/Zadachi/src/oneLineNumbers.java#L1-L9
+      </details>
+    + <details>
+        <summary>Class:threeLineNumbers</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/Zadachi/src/threeLineNumbers.java#L1-L10
+      </details>
+    + <details>
+        <summary>Class:Main</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/51ecfcac442528b78d76386b06933f9b16eab71a/Zadachi/Zadachi/src/Main.java#L1-L6
+      </details>
+</details>
  
 <br>
  
 ### Installation
  
-Install my-project with npm
+Install my-project with cmd
  
 ```bash
   git clone https://github.com/ERKeserdzhieva20/JavaClasswork.git
