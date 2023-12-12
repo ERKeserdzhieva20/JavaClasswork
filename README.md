@@ -5,6 +5,41 @@ A centralized repository has been established to meticulously catalog and house 
  
 ## Quick look around of the repository:
 <details>
+<summary>Classwork from 12.12.23</summary>
+
+Projects:
++ <details>
+    <summary>Polymorphism</summary>
+
+    Files:
+    + <details>
+        <summary>Class:Animal</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/39e43678c2eb5a8ea63b53cd7041732333004ab0/Tasks/classwork12122023/Polymorphism/src/Animal.java#L1-L3
+      </details>
+    + <details>
+        <summary>Class:Calculator</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/39e43678c2eb5a8ea63b53cd7041732333004ab0/Tasks/classwork12122023/Polymorphism/src/Calculator.java#L1-L16
+      </details>
+    + <details>
+        <summary>Class:Dog</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/39e43678c2eb5a8ea63b53cd7041732333004ab0/Tasks/classwork12122023/Polymorphism/src/Dog.java#L1-L19
+      </details>
+    + <details>
+        <summary>Class:Mammal</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/39e43678c2eb5a8ea63b53cd7041732333004ab0/Tasks/classwork12122023/Polymorphism/src/Mammal.java#L1-L3
+      </details>
+    + <details>
+        <summary>Class:Puppy</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/39e43678c2eb5a8ea63b53cd7041732333004ab0/Tasks/classwork12122023/Polymorphism/src/Puppy.java#L1-L6
+      </details>
+    + <details>
+        <summary>Class:Main</summary>
+        https://github.com/ERKeserdzhieva20/JavaClasswork/blob/39e43678c2eb5a8ea63b53cd7041732333004ab0/Tasks/classwork12122023/Polymorphism/src/Main.java#L1-L25
+      </details>
+   </details>
+</details>
+
+<details>
 <summary>Classwork from 05.12.23</summary>
 
 Projects:
